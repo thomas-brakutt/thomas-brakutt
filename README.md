@@ -9,6 +9,8 @@ You can write to me at 📫 <em>thomas.brakutt@gmail.com</em>
     <li>Archery in the club 🏹🎯</li>    
     <li>Go hiking in nature with my dog ​​and my family 🌳🌲🚶🏻⛰️</li>
     <li>Listen to music and dance 🎼🕺🏻</li>
+    <li>Play video games and board games 💻 🎮 🎲</li>
+    <li>to draw 🖼️ ✍🏻 </li>
 </ul>
 
 That's it from my site! <br>
