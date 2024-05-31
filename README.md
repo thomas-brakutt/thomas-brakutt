@@ -6,10 +6,10 @@ You can write to me at 📫 <em>thomas.brakutt@gmail.com</em>
 
 <h4>When I'm not coding, I like...</h4>
 <ul>
-    <li>Archery in the club 🏹🎯</li>    
-    <li>Go hiking in nature with my dog ​​and my family 🌳🌲🚶🏻⛰️</li>
-    <li>Listen to music and dance 🎼🕺🏻</li>
-    <li>Play video games and board games 💻 🎮 🎲</li>
+    <li>archery in the club 🏹🎯</li>    
+    <li>go hiking in nature with my dog ​​and my family 🌳🌲🚶🏻⛰️</li>
+    <li>listen to music and dance 🎼🕺🏻</li>
+    <li>play video games and board games 💻 🎮 🎲</li>
     <li>to draw 🖼️ ✍🏻 </li>
 </ul>
 
