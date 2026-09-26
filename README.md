@@ -1,23 +1,76 @@
-<h2>Hello visitors, I´m Thomas !! 🙋🏻‍♂️😊</h2>
+# Hi, I'm Thomas 👋
 
-I am currently learning <strong>Frontend Developer</strong> at <a href = "https://www.coding-bootcamps.eu/webentwickler-werden-bildungsgutschein/?utm_source=google&utm_medium=cpc&utm_campaign=20681245369&utm_term=&matchtype=&device=c&gad_source=1&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9MyyRD0M3sn8lh61vvGQ4Z3vxnArYcQ7AUcnhIuWrsE22LuIXyRfQoaAjccEALw_wcB">Coding Bootcamps Europe.</a> 💻 ⌨️-🖱️🖥️
+### Junior Frontend Developer & Java Programmer
 
-You can write to me at 📫 <em>thomas.brakutt@gmail.com</em>
+I'm passionate about building clean, user-friendly web applications and continuously improving my development skills.
 
-<h4>When I'm not coding, I like...</h4>
-<ul>
-    <li>archery in the club 🏹🎯</li>    
-    <li>go hiking in nature with my dog ​​and my family 🌳🌲🚶🏻⛰️</li>
-    <li>listen to music and dance 🎼🕺🏻</li>
-    <li>play video games and board games 💻 🎮 🎲</li>
-    <li>to draw 🖼️ ✍🏻 </li>
-</ul>
+My journey into software development started with a frontend development bootcamp and continued with further training in Java. Since then, I've been working on my own projects, experimenting with different technologies and learning more about clean, maintainable code.
 
-That's it from my site! <br>
-Have a good time! 🙋🏻‍♂️
+I especially enjoy turning ideas into working applications and understanding how the different parts of a project come together.
 
+---
 
-<!---
-thomas-brakutt/thomas-brakutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Vue.js
+- Java
+- Git & GitHub
+
+---
+
+## 🚀 What I'm currently working on
+
+- Building and improving my developer portfolio
+- Developing frontend projects with HTML, CSS, JavaScript and Vue.js
+- Expanding my Java knowledge
+- Learning new technologies and development concepts
+- Improving clean code, responsive design and maintainable project structures
+
+---
+
+## 📂 Projects
+
+You can find some of my projects here on GitHub.
+
+I'm currently updating my repositories and adding project documentation, screenshots and live demos.
+
+👉 Check out my repositories below or visit my portfolio.
+
+<!--
+Portfolio link later:
+[Visit my portfolio](https://YOUR-PORTFOLIO-URL)
+-->
+
+---
+
+## 🌱 A little about me
+
+When I'm not coding, I enjoy:
+
+- 🏹 Archery
+- 🌲 Hiking and spending time in nature with my family and my dog
+- 🎵 Music and dancing
+- 🎮 Video games and board games
+- ✏️ Drawing
+
+I like activities that require creativity, concentration and patience — qualities that I also find very useful when programming.
+
+---
+
+## 📫 Contact
+
+Feel free to get in touch:
+
+**Email:** [thomas.brakutt@gmail.com](mailto:thomas.brakutt@gmail.com)
+
+<!--
+Portfolio:
+[Portfolio](https://YOUR-PORTFOLIO-URL)
+-->
+
+---
+
+Thanks for visiting my GitHub profile! 😊
